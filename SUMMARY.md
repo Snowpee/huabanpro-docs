@@ -6,4 +6,6 @@
   * [开始使用桌面客户端](desk-app/desk-app-quick-start.md)
   * [客户端常见问题](desk-app/desktop-app-faq.md)
   * [客户端快捷键](desk-app/shortcuts.md)
+* [联合优惠（会员津贴）](member-benefits.md)
+* [返利计划](rebate.md)
 
